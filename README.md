@@ -26,6 +26,8 @@ I lead backend architecture for multiple teams, mentor devs, and work across sec
 ---
 
 ## Stats
+> Most of my work is in private/company repositories involving high-scale systems, backend APIs, and data pipelines.  
+> I'm active every day, but stats are mostly hidden due to private contributions.
 ![Hassaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-hassaan-habib&show_icons=true&theme=default&hide=stars)
 
 ---
